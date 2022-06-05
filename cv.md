@@ -24,3 +24,10 @@ function checkNumberIsPositive(number){
     return `The number is ${result}.`
 }
 ```
+### Courses
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+-  RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+### Languages
+- English - A2
+- Russian - Native
