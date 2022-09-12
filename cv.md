@@ -23,3 +23,10 @@ function checkNumberIsPositive(number){
 ### Courses
 - JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 -  RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+### Languages
+- English - A2
+- Russian - Native
+
+### My projects
+- [Curriculum Vitae page](https://pando-r1.github.io/rsschool-cv/cv)
